@@ -119,7 +119,7 @@ Upon running the LeNet architecture on the traffic sign dataset, the model showe
 
 Thus, the LeNet model with just a single dropout layer added to it shows a 96% validation accuracy in identifying the traffic signs. The usage of the droput layer brought the validation and training loss curves close in the loss graph as shown below.
 
-![Final Accuracy](Accuracy_Final.png)
+![Final Accuracy](Accuracy_Final.PNG)
 
 ### Testing the model on New Images
 
@@ -127,7 +127,7 @@ Thus, the LeNet model with just a single dropout layer added to it shows a 96% v
 
 Here are five German traffic signs that I found on the web:
 
-![5 Traffic Web Images](traffic_images.png)
+![5 Traffic Web Images](traffic_images.PNG)
 
 The first image might be diffcult to classify since it is slightly translated to the left. This image is unlike the other images in the dataset that it is having a bit of noise and a background is present in the image.
 
